@@ -16,7 +16,7 @@
 			},
 			"name": "liferay-base-theme",
 			"version": "1.0.0",
-			"path": "/Users/greg/.npm-packages/lib/node_modules/liferay-base-theme"
+			"path": "../liferay-base-theme"
 		},
 		"fontAwesome": false,
 		"screenshot": "",
@@ -42,6 +42,6 @@
 		"watch": "gulp watch"
 	},
 	"dependencies": {
-		"liferay-base-theme": "file:../../../../.npm-packages/lib/node_modules/liferay-base-theme"
+		"liferay-base-theme": "file:../liferay-base-theme"
 	}
 }
